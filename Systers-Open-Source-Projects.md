@@ -1,5 +1,6 @@
-
 The following open source projects will begin April 2014. We want to target various programming language to give our community opportunities to learn or improve their coding skills using various languages.  Below is a tentative list of projects.
+
+***
 
 ### Peace Corps Projects GSoC 2014
 
@@ -9,6 +10,7 @@ This project started from RHOK Atlanta June 2013 event helping Peace Corps (PC) 
 3. Malaria Prevention (Android)
 4. Systers GNU Mailman (Python)
 
+***
 
 ### Community Projects
 1. Volunteer Management System

@@ -9,7 +9,7 @@ This project started from RHOK Atlanta June 2013 event helping Peace Corps (PC) 
 
 2. **Ushahidi Crowdsourcing** for PC volunteers in Azerbaijan. Read more about this project on [PC PCAZ Github](https://github.com/PeaceCorps/PCAZ) site.
 
-3. Malaria Prevention (Android)
+3. [Malaria Prevention](https://github.com/systers/ossprojects/wiki/Malaria-Prevention) (Android)
 
 
 4. Systers GNU Mailman (Python)

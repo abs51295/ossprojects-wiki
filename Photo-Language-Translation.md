@@ -3,6 +3,7 @@ This project started from RHOK Atlanta June 2013 event helping Peace Corps (PC) 
 Peace Corp needs a web application specifically for all of their volunteer sites so something more generic is needed. Initial project was created in Ruby on Rails and would be great to continue this development.
 
 **A few initial features are desired:**
+
 1. User Interface design/development
 
 2. Login at organization level (this could potentially be something other organizations can use)

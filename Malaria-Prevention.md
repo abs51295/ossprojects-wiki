@@ -9,3 +9,11 @@ Peace Corps is looking to design a mobile app that will aid the Volunteer in sus
 The hope is to use the latest thinking in using technology to influence behavior to provide assistance to the 1,000’s of Peace Corps Volunteers serving in Malaria endemic regions of the world. We are interested in experimenting with all possible options including gamification, social sharing, and tracking within a mobile application.
  
 Participants will be presented with two recent studies conducted by the CDC pertaining to use of preventative tactics by volunteers and their reasons for compliance or non-compliance. Participants will also be given access to experts at Peace Corps, State Dept. and the CDC to help understand the science of Malaria prevention and the findings of the recent research.
+
+Initial Features:
+
+1. Website for admins to submit messages to disseminate through mobile messages to PCVs in the field. 
+
+2. Receive PCV messages from HQ (Android and text)
+
+3. User Interface for both website and mobile app

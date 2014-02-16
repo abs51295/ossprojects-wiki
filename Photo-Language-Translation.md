@@ -4,12 +4,21 @@ Peace Corp needs a web application specifically for all of their volunteer sites
 
 **A few initial features are desired:**
 1. User Interface design/development
+
 2. Login at organization level (this could potentially be something other organizations can use)
+
 3. Admin dashboard
+
    a. Organization profile
+
    b. Administrators
+
    c. Sites
+
 4. Individual users
+
    a. Upload photos and add text/translation
+
    b. Categorize
+
 5. Webpage must be able to use offline 

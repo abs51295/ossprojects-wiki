@@ -17,3 +17,16 @@ Initial Features:
 2. Receive PCV messages from HQ (Android and text)
 
 3. User Interface for both website and mobile app
+
+**Development Environment:**
+Mobile
+* Language: Java 
+* Framework: Android SDK
+* Difficulty: Novice to Medium
+* Potential Mentors: TBA
+
+Web
+* Language: Python 
+* Framework: Possibly Django
+* Difficulty: Novice to Medium
+* Potential Mentors: TBA

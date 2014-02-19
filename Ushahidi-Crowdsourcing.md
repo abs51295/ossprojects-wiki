@@ -1,8 +1,8 @@
-Initial projects were for a customization of the Ushahidi Platform for Peace Corps Volunteers serving in Azerbaijan. We want to make this more open for other locations with enhancements, but also work on issues and existing enhancements.
+Initial projects were for a customization of the [Ushahidi Platform](http://ushahidi.com/products/ushahidi-platform) for Peace Corps Volunteers serving in Azerbaijan. We want to make this more open for other locations with enhancements, but also work on issues and existing enhancements.
 
 [Background Information and Initial Code](https://github.com/PeaceCorps/PCAZ)
 
-Enhancements:
+**Enhancements**
 
 1. Constrain the zoom level on the map 
 
@@ -12,7 +12,7 @@ Enhancements:
 
 4. Adjust report selection menu
 
-Future Enhancements:
+**Future Enhancements**
 
 1. Login (organization level)
 

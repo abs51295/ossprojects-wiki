@@ -28,5 +28,5 @@ Future enhancements:
 **Development Environment:**
 * Language: Ruby
 * Framework: Rails
-* Difficulty: Novice to Medium
+* Difficulty: Novice to Intermediate
 * Potential Mentors: TBA

@@ -23,5 +23,5 @@ Initial projects were for a customization of the [Ushahidi Platform](http://usha
 **Development Environment:**
 * Language: Php, Python, or Ruby
 * Framework: Kohana PhP
-* Difficulty: Novice to Medium
+* Difficulty: Novice to Intermediate
 * Potential Mentors: TBA

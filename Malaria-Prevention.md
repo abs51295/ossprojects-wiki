@@ -28,5 +28,5 @@ Mobile
 Web
 * Language: Python 
 * Framework: Django
-* Difficulty: Novice to Medium
+* Difficulty: Novice to Intermediate
 * Potential Mentors: TBA

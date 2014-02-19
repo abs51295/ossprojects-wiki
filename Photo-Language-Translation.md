@@ -24,7 +24,7 @@ Peace Corp needs a web application specifically for all of their volunteer sites
 
 5. Webpage must be able to use offline 
 
-**Project Requirement:**
+**Development Environment**
 * Language: Ruby
 * Framework: Rails
 * Difficulty: Novice to Medium

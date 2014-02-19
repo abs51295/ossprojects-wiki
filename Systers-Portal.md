@@ -9,3 +9,9 @@ Initial features:
 
 Future enhancements:
 Create application for more broader community portal.
+
+**Development Environment:**
+* Language: Python
+* Framework: Django
+* Difficulty: Novice to Medium
+* Potential Mentors: TBA

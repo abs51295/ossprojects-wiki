@@ -13,5 +13,5 @@ Systers will be upgrading to the latest version of GNU mailman and must add Syst
 **Development Environment:**
 * Language: Python
 * Framework: GNU Mailman
-* Difficulty: Novice to Medium
+* Difficulty: Intermediate to Advance
 * Potential Mentors: TBA

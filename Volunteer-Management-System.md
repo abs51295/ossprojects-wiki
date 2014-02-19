@@ -24,3 +24,9 @@ Initial Features for VMS:
 
 Future enhancements:
 1. Create API for companies to confirm volunteer hours worked by an employee 
+
+*Development Environment:**
+* Language: Ruby
+* Framework: Rails
+* Difficulty: Novice to Medium
+* Potential Mentors: TBA

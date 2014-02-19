@@ -13,5 +13,5 @@ Create application for more broader community portal.
 **Development Environment:**
 * Language: Python
 * Framework: Django
-* Difficulty: Novice to Medium
+* Difficulty: Novice to Intermediate
 * Potential Mentors: TBA

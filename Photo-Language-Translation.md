@@ -27,5 +27,5 @@ Peace Corp needs a web application specifically for all of their volunteer sites
 **Development Environment**
 * Language: Ruby
 * Framework: Rails
-* Difficulty: Novice to Medium
+* Difficulty: Novice to Intermediate
 * Potential Mentors: TBA

@@ -20,3 +20,8 @@ Future Enhancements:
 
 3. Integrate current code into more organization level
 
+**Project Requirement:**
+* Language: Php, Python, or Ruby
+* Framework: Kohana PhP
+* Difficulty: Novice to Medium
+* Potential Mentors: TBA

@@ -7,7 +7,9 @@ Things to note:
 
 
 Systers will be upgrading to the latest version of GNU mailman and must add Systers code to the baseline code. This allows more analysis of GNU Mailman architecture and code.
+
 1. Add Systers features to upgrade 
+
 2. Create [Systers testing automation](http://systers.org/systers-dev/doku.php/2013_systers-mailman_development_projects) using Selenium framework
 
 **Development Environment:**

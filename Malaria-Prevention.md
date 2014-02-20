@@ -19,10 +19,11 @@ Initial Features:
 3. User Interface for both website and mobile app
 
 **Development Environment:**
+
 Mobile
 * Language: Java 
 * Framework: Android SDK
-* Difficulty: Novice to Medium
+* Difficulty: Novice to Intermediate
 * Potential Mentors: TBA
 
 Web

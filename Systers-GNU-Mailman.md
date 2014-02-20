@@ -5,6 +5,7 @@ Things to note:
 1. You can read [past Systers GSoC projects](http://systers.org/systers-dev/doku.php/start).
 
 2. All Systers GNU Mailman code is stored on [Systers Launchpad repository](https://launchpad.net/systers). 
+
 _**Please note:** All code for this project will be stored in Launchpad as it is main version control software for GNU Mailman._
 
 3. Our main Systers Google Summer of Code and Open Source Development page >> [HERE](http://systers.org/systers-dev/doku.php/start).

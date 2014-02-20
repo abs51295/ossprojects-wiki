@@ -6,13 +6,15 @@ Some of the projects below are projects for [Peace Corps](http://www.peacecorps.
 ### Projects (Peace Corps)
 The Peace Corps has many volunteers (PCVs) out in the field assigned in various countries around the world. They get a lot of great technology projects started, usually at hackathons, but they never get any of them complete so that they can deploy the applications to the PCVs who really need technology to help their assignments in many ways. Systers will be working on 3 main Peace Corp projects that we hope to have them deployed by the end of this program.
 
-[1] RealTrack-iOS to Android
+[1] RealTrack - Implement iOS version
 
-[2] [Photo Language Translation (Ruby on Rails)](Photo-Language-Translation)
+[2] [Malaria Prevention (Web/Android)](Malaria-Prevention)
 
 [3] [Ushahidi Crowdsourcing Platform](Ushahidi-Crowdsourcing)
 
-[4] [Malaria Prevention (Web/Android)](Malaria-Prevention)
+[4] [Photo Language Translation (Ruby on Rails)](Photo-Language-Translation)
+
+
 
 ### ABI/Systers Projects
 Systers, an Anita Borg Institute (ABI) Community, have very specific needs to help them internally and externally with managing volunteers and having a Systers (and sub groups) portal. The Volunteer Management System and Systers Portal will hope to help ABI staff and volunteers to make a much engaged connection.

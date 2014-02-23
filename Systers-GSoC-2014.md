@@ -23,7 +23,8 @@ Systers will also also be upgrading to the latest Systers GNU Mailman and applyi
 
 [5] [Volunteer Management System](Volunteer-Management-System)
 
-[6] [Systers Portal](Systers-Portal) 
+[6] [Systers GNU Mailman (Python)](Systers-GNU-Mailman)
 
-[7] [Systers GNU Mailman (Python)](Systers-GNU-Mailman)
+
+
 

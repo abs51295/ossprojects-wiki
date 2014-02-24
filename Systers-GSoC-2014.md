@@ -27,6 +27,8 @@ Systers will also also be upgrading to the latest Systers GNU Mailman and applyi
 
 [6] [Systers GNU Mailman (Python)](Systers-GNU-Mailman)
 
+[7] Testing Automation (Selenium Framework)
+
 
 
 

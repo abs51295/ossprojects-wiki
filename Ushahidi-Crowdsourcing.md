@@ -27,7 +27,10 @@ Initial projects were for a customization of the [Ushahidi Platform](http://usha
 * Potential Mentors: TBA
 
 **Mentors**
-Rose Robinson (Anita Borg Institute)
+[Rose Robinson](http://about.me/rosariorobinson) ([Anita Borg Institute](http://anitaborg.org/))
+
 [Ushahidi Mentors](http://www.ushahidi.com/about-us/team) 
+
 Angela Odour
+
 Rob Baker

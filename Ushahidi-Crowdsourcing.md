@@ -25,3 +25,9 @@ Initial projects were for a customization of the [Ushahidi Platform](http://usha
 * Framework: Kohana PhP
 * Difficulty: Novice to Intermediate
 * Potential Mentors: TBA
+
+**Mentors**
+Rose Robinson (Anita Borg Institute)
+[Ushahidi Mentors](http://www.ushahidi.com/about-us/team) 
+Angela Odour
+Rob Baker

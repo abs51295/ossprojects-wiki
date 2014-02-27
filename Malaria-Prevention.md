@@ -10,6 +10,9 @@ The hope is to use the latest thinking in using technology to influence behavior
  
 Participants will be presented with two recent studies conducted by the CDC pertaining to use of preventative tactics by volunteers and their reasons for compliance or non-compliance. Participants will also be given access to experts at Peace Corps, State Dept. and the CDC to help understand the science of Malaria prevention and the findings of the recent research.
 
+**Initial Design**
+There are many volunteers at the Peace Corps and PC works with colleges and universities in intern programs.  There will be an initial design team working on the interface and functional flow of the application. Once that team has initial design is complete (target March 5), we'll have access to that as well.
+
 Initial Features:
 
 1. Website for admins to submit messages to disseminate through mobile messages to PCVs in the field. 

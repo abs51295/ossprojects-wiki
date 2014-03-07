@@ -4,7 +4,7 @@ To support our efforts to inspire, guide and connect women in technology, Syster
 
 [1] Read list of [GSoC 2014 projects](Systers-GSoC-2014) set to begin March 2014.
 
-[2] [Systers Portal (Python)](Systers-Portal) 
+[2] 
 
 
 

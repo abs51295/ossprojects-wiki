@@ -14,7 +14,7 @@ _**Please note:** All code for this project will be stored in Launchpad as it is
 
 Systers will be upgrading to the latest version of GNU mailman and must add Systers code to the baseline code. This allows more analysis of GNU Mailman architecture and code.
 
-1. Add Systers features to upgrade 
+1. Port Systers GSoC (2012-2013) features to Mailman 3.0 
 2. Setup Automated Testing for upgrade (Selenium Framework)
 
 **Development Environment:**
@@ -23,7 +23,4 @@ Systers will be upgrading to the latest version of GNU mailman and must add Syst
 * Difficulty: Intermediate to Advance
 * Potential Mentors: TBA
 
-Future Enhancements
-1. Implement regional lists with verification and access restrictions.
-2. Port Systers to 3.0 when released.
 

@@ -13,7 +13,8 @@ We are in the process of getting user feedback on the app and plan on making inc
 * Ability to share images from phone’s gallery
 
 **Development Environment**
-* Language: Java
-* Framework: Android SDK
+* Language: XCode
+* Framework: iOS SDK
 * Difficulty: Novice to Intermediate
 * Potential Mentors: TBA
+_Note: For this project, you will be placed under Peace Corps development license for the duration of the project._

@@ -17,4 +17,5 @@ We are in the process of getting user feedback on the app and plan on making inc
 * Framework: iOS SDK
 * Difficulty: Novice to Intermediate
 * Potential Mentors: TBA
+
 _Note: For this project, you will be placed under Peace Corps development license for the duration of the project._

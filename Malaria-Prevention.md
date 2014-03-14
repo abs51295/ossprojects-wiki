@@ -30,10 +30,10 @@ Initial Features:
 
 **iOS Development Environment:**
 
-Language: XCode
-Framework: iOS SDK
-Difficulty: Novice to Intermediate
-Potential Mentors: TBA
+* Language: XCode
+* Framework: iOS SDK
+* Difficulty: Novice to Intermediate
+* Potential Mentors: TBA
 
 **Web Development Environment:**
 * Language: Python 

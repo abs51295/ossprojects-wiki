@@ -21,15 +21,21 @@ Initial Features:
 
 3. User Interface for both website and mobile app
 
-**Development Environment:**
+** Android Development Environment:**
 
-Mobile
 * Language: Java 
 * Framework: Android SDK
 * Difficulty: Novice to Intermediate
 * Potential Mentors: TBA
 
-Web
+** iOS Development Environment:**
+
+Language: XCode
+Framework: iOS SDK
+Difficulty: Novice to Intermediate
+Potential Mentors: TBA
+
+** Web Development Environment:**
 * Language: Python 
 * Framework: Django
 * Difficulty: Novice to Intermediate

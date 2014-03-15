@@ -11,7 +11,6 @@ Would like to implement various levels of access, for example
 * Level 2 (Content contributor)
 * Level 1 (Only view mode and comment)
 
-***
 
 ### Workspace available for Systers and each sub-group
 

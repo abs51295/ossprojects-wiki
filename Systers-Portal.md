@@ -18,13 +18,10 @@ Workspace includes the ability to:
 * Entering Resources for scholarships, grants, interns, workshops, professional development, etc.
 * Find a local meetup (currently using Meetup Everywhere has strict limitations)
 
-***
-
 ### Create social media template for sharing information
 
 Should be able to share resources, meetups and announcements via social media.
 
-***
 
 ## Future enhancements:
 Create application for more broader community portal.

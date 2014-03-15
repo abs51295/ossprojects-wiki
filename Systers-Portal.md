@@ -15,8 +15,9 @@ Would like to implement various levels of access, for example
 ### Workspace available for Systers and each sub-group
 
 Workspace includes the ability to:
-* Entering Resources for scholarships, grants, interns, workshops, professional development, etc.
-* Find a local meetup (currently using Meetup Everywhere has strict limitations)
+* Enter resources (scholarships, grants, interns, workshops, professional development, etc.)
+* Create/Find a local or global meetups (currently using Meetup Everywhere has limitations)
+* See past events
 
 ### Create social media template for sharing information
 

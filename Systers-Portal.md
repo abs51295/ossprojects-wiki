@@ -33,5 +33,7 @@ Create application for more broader community portal.
 * Difficulty: Novice to Intermediate
 
 ## Mentors
-[Lynn Root](http://www.roguelynn.com/) (San Francisco), [Laura Cassell](https://plus.google.com/103104082904771998862/about) (Atlanta), Promita Bose (New York City)
+* [Lynn Root](http://www.roguelynn.com/) (San Francisco)
+* [Laura Cassell](https://plus.google.com/103104082904771998862/about) (Atlanta)
+* Promita Bose (New York City)
 

@@ -3,3 +3,9 @@ In the past, students have set up a framework for automated tests of Systers Mai
 This year, we want to expand this testing automation for all of the projects. Students will work to setup environment for all the projects listed above as well as work with the students of those projects. A lot of collaboration with other students, mentors, Project Managers, org administrator.
 
 You can read last year's student's work about [Testing Automation](http://systers.org/systers-dev/doku.php/olga_maciaszek-sharma:gsoc2013).
+
+## Development Environment
+
+
+## Mentors
+[Wendy Knox-Everette](http://www.wendyk.org/)

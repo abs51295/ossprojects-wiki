@@ -4,7 +4,7 @@ RealTrack is an Android smartphone application designed to facilitate day-to-day
 
 We are in the process of getting user feedback on the app and plan on making incremental adjustments as we move forward. We will use the Android version to define the requirements of the iOS version and start the iOS development.
 
-**1. Android Features**
+## Android Features
 
 The Android version has already been implmentened and initial work by Neeraj Rao for [RealTrack](https://github.com/neeraj2608/realtrack). You can download the Android app from Google Play. 
 
@@ -16,10 +16,22 @@ Additional Android features for this project are:
 * Tweets to engender sense of accomplishment
 * Ability to share images from phone’s gallery
 
-**2. iOS development**
+### Mentors
+* Nicki Hutchen
+* Android: [Chiu-ki Chan](https://twitter.com/chiuki), [Neeraj Rao](https://www.linkedin.com/in/neeraj2608)
+* iOS: TBA
+
+### Android Development Environment
+
+* Language: Java 
+* Framework: Android SDK
+* Difficulty: Novice to Intermediate
+* Potential Mentors: TBA
+
+## iOS development
 * Implement iOS version of already existing Android app
 
-**Development Environment**
+### iOS Development Environment
 * Language: XCode
 * Framework: iOS SDK
 * Difficulty: Novice to Intermediate

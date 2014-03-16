@@ -29,4 +29,11 @@ Future enhancements:
 * Language: Ruby
 * Framework: Rails
 * Difficulty: Novice to Intermediate
-* Potential Mentors: TBA
+
+**Mentors**
+
+[Suzanne Mello-Stark](http://www.cs.uri.edu/about-us/people/suzanne-mello-stark-lecturer-adjunct-assistant-professor/)
+
+[Pamela Vickers](https://twitter.com/pwnela)
+
+[Sylvain Abelard](https://twitter.com/abelar_s)

@@ -31,4 +31,7 @@ Create application for more broader community portal.
 * Language: Python
 * Framework: Django
 * Difficulty: Novice to Intermediate
-* Potential Mentors: TBA
+
+**Mentors**
+[Lynn Root](http://www.roguelynn.com/) (San Francisco), [Laura Cassell](https://plus.google.com/103104082904771998862/about) (Atlanta), Promita Bose (New York City)
+

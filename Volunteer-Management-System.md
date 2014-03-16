@@ -6,7 +6,8 @@ Anita Borg Institute along with other nonprofit organizations work with many vol
 
 * Volunteer managers/coordinators must be able to easily execute reports.
 
-Initial Features for VMS:
+**Initial Features for VMS**
+
 1. UI development
 
 2. Login with Admin/Volunteer dashboard
@@ -22,7 +23,7 @@ Initial Features for VMS:
 * Sign up for a volunteer job
 * Individual Reporting
 
-Future enhancements:
+**Future enhancements**
 1. Create API for companies to confirm volunteer hours worked by an employee 
 
 **Development Environment:**

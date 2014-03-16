@@ -31,5 +31,7 @@ Peace Corp needs a web application specifically for all of their volunteer sites
 
 **Mentors**
 [Ana Cutillas](https://plus.google.com/+AnaCutillas/posts)
+
 [Pamela Vickers](https://twitter.com/pwnela)
+
 [Sylvain Abelard](https://twitter.com/abelar_s)

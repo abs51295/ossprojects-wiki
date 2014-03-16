@@ -29,7 +29,7 @@ Additional Android features for this project are:
 * Potential Mentors: TBA
 
 ## iOS development
-* Implement iOS version of already existing Android app
+Implement iOS version of already existing Android app
 
 ### iOS Mentors
 * Nicki Hutchen

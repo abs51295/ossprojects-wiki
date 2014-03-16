@@ -44,6 +44,6 @@ There are many volunteers at the Peace Corps and PC works with colleges and univ
 * Difficulty: Novice to Intermediate
 
 ### Mentors
-* [Rose Robinson](http://about.me/rosariorobinson)
-* Android: [Kristin Marsicano](https://twitter.com/kristinmars), [Chinmayi Sk](http://about.me/chinmayisk)
-* iOS: [Matt Mathias](http://www.bignerdranch.com/about_us/nerds/matt_mathias), [Shanu Salunke](https://www.linkedin.com/in/shanusalunke)
+* [Rose Robinson](http://about.me/rosariorobinson) (Atlanta)
+* Android: [Kristin Marsicano](https://twitter.com/kristinmars) (Atlanta), [Chinmayi Sk](http://about.me/chinmayisk) (Bangalore)
+* iOS: [Matt Mathias](http://www.bignerdranch.com/about_us/nerds/matt_mathias) (Atlanta), [Shanu Salunke](https://www.linkedin.com/in/shanusalunke) (Bangalore)

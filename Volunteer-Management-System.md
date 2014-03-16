@@ -6,7 +6,7 @@ Anita Borg Institute along with other nonprofit organizations work with many vol
 
 * Volunteer managers/coordinators must be able to easily execute reports.
 
-**Initial Features for VMS**
+## Initial Features
 
 1. UI development
 
@@ -23,19 +23,16 @@ Anita Borg Institute along with other nonprofit organizations work with many vol
   * Sign up for a volunteer job
   * Individual Reporting
 
-**Future enhancement**
+## Future enhancement
 
 Create API for companies to confirm volunteer hours worked by an employee 
 
-**Development Environment:**
+## Development Environment:
 * Language: Ruby
 * Framework: Rails
 * Difficulty: Novice to Intermediate
 
-**Mentors**
-
-[Suzanne Mello-Stark](http://www.cs.uri.edu/about-us/people/suzanne-mello-stark-lecturer-adjunct-assistant-professor/)
-
-[Pamela Vickers](https://twitter.com/pwnela)
-
-[Sylvain Abelard](https://twitter.com/abelar_s)
+## Mentors
+* [Suzanne Mello-Stark](http://www.cs.uri.edu/about-us/people/suzanne-mello-stark-lecturer-adjunct-assistant-professor/)
+* [Pamela Vickers](https://twitter.com/pwnela)
+* [Sylvain Abelard](https://twitter.com/abelar_s)

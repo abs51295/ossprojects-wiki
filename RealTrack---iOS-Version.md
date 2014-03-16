@@ -32,7 +32,7 @@ Additional Android features for this project are:
 Implement iOS version of already existing Android app
 
 ### iOS Mentors
-* Nicki Hutchen
+* Nicki Hutchen (Memphis, TN)
 * TBA
 
 ### iOS Development Environment

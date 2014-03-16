@@ -5,8 +5,8 @@ This year, we want to expand this testing automation for all of the projects. St
 You can read last year's student's work about [Testing Automation](http://systers.org/systers-dev/doku.php/olga_maciaszek-sharma:gsoc2013).
 
 ## Development Environment
-* Language: Python
-* Framework: Selenium (Pyunit test framework)
+* Language: Java
+* Framework: Selenium (Junit test framework)
 * Difficulty: Novice to Intermediate
 
 ## Mentors

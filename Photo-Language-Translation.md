@@ -28,4 +28,8 @@ Peace Corp needs a web application specifically for all of their volunteer sites
 * Language: Ruby
 * Framework: Rails
 * Difficulty: Novice to Intermediate
-* Potential Mentors: TBA
+
+**Mentors**
+[Ana Cutillas](https://plus.google.com/+AnaCutillas/posts)
+[Pamela Vickers](https://twitter.com/pwnela)
+[Sylvain Abelard](https://twitter.com/abelar_s)

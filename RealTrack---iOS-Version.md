@@ -16,7 +16,7 @@ Additional Android features for this project are:
 * Tweets to engender sense of accomplishment
 * Ability to share images from phone’s gallery
 
-**iOS development**
+**2. iOS development**
 * Implement iOS version of already existing Android app
 
 **Development Environment**

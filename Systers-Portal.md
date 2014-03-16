@@ -32,6 +32,6 @@ Create application for more broader community portal.
 * Framework: Django
 * Difficulty: Novice to Intermediate
 
-**Mentors**
+## Mentors
 [Lynn Root](http://www.roguelynn.com/) (San Francisco), [Laura Cassell](https://plus.google.com/103104082904771998862/about) (Atlanta), Promita Bose (New York City)
 

@@ -30,8 +30,5 @@ _Note: If time permits, additional issues/enhancements will be assigned._
 * Potential Mentors: TBA
 
 ## Mentors
-[Rose Robinson](http://about.me/rosariorobinson) ([Anita Borg Institute](http://anitaborg.org/))
-
-[Ushahidi Mentors](http://www.ushahidi.com/about-us/team) 
-* Angela Odour
-* Rob Baker
+* [Rose Robinson](http://about.me/rosariorobinson) ([Anita Borg Institute](http://anitaborg.org/))
+* [Ushahidi](http://www.ushahidi.com/about-us/team): Angela Odour, Rob Baker

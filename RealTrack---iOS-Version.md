@@ -17,9 +17,9 @@ Additional Android features for this project are:
 * Ability to share images from phone’s gallery
 
 ### Android Mentors
-* Nicki Hutchen
-* [Chiu-ki Chan](https://twitter.com/chiuki)
-* [Neeraj Rao](https://www.linkedin.com/in/neeraj2608)
+* [Nicki Hutchen](https://www.linkedin.com/pub/nicki-hutchens/14/96a/361) (Memphis, TN)
+* [Chiu-ki Chan](https://twitter.com/chiuki) (Denver, CO)
+* [Neeraj Rao](https://www.linkedin.com/in/neeraj2608) (Gainsville, FL)
 
 ### Android Development Environment
 

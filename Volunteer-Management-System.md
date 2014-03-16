@@ -13,18 +13,19 @@ Anita Borg Institute along with other nonprofit organizations work with many vol
 2. Login with Admin/Volunteer dashboard
 
 3. Administrative tasks
-* Enter volunteer jobs and descriptions
-* Enter days, hours available for jobs
-* Repeat jobs
-* Reporting by jobs, users and companies with sub-total and totals
+  * Enter volunteer jobs and descriptions
+  * Enter days, hours available for jobs
+  * Repeat jobs
+  * Reporting by jobs, users and companies with sub-total and totals
 
 4. Volunteer tasks
-* Login
-* Sign up for a volunteer job
-* Individual Reporting
+  * Login
+  * Sign up for a volunteer job
+  * Individual Reporting
 
-**Future enhancements**
-1. Create API for companies to confirm volunteer hours worked by an employee 
+**Future enhancement**
+
+Create API for companies to confirm volunteer hours worked by an employee 
 
 **Development Environment:**
 * Language: Ruby

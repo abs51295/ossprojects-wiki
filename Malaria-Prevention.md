@@ -10,10 +10,13 @@ The hope is to use the latest thinking in using technology to influence behavior
  
 Participants will be presented with two recent studies conducted by the CDC pertaining to use of preventative tactics by volunteers and their reasons for compliance or non-compliance. Participants will also be given access to experts at Peace Corps, State Dept. and the CDC to help understand the science of Malaria prevention and the findings of the recent research.
 
-**Initial Design**
+## Initial Prototype Presentation
+[Malaria Project Presentation](http://prezi.com/nw4b5winj4_c/malaria-meds-app/)
+
+## Initial Design
 There are many volunteers at the Peace Corps and PC works with colleges and universities in intern programs.  There will be an initial design team working on the interface and functional flow of the application. Once that team has initial design is complete (target March 5), we'll have access to that as well.
 
-Initial Features:
+### Initial Features
 
 1. Website for admins to submit messages to disseminate through mobile messages to PCVs in the field. 
 
@@ -21,22 +24,26 @@ Initial Features:
 
 3. User Interface for both website and mobile app
 
-**Android Development Environment:**
+### Android Development Environment
 
 * Language: Java 
 * Framework: Android SDK
 * Difficulty: Novice to Intermediate
 * Potential Mentors: TBA
 
-**iOS Development Environment:**
+### iOS Development Environment
 
 * Language: XCode
 * Framework: iOS SDK
 * Difficulty: Novice to Intermediate
 * Potential Mentors: TBA
 
-**Web Development Environment:**
+### Web Development Environment
 * Language: Python 
 * Framework: Django
 * Difficulty: Novice to Intermediate
-* Potential Mentors: TBA
+
+### Mentors
+* [Rose Robinson](http://about.me/rosariorobinson)
+* Android: [Kristin Marsicano](https://twitter.com/kristinmars), [Chinmayi Sk](http://about.me/chinmayisk)
+* iOS: [Matt Mathias](http://www.bignerdranch.com/about_us/nerds/matt_mathias), [Shanu Salunke](https://www.linkedin.com/in/shanusalunke)

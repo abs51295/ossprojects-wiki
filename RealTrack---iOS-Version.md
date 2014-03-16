@@ -16,10 +16,10 @@ Additional Android features for this project are:
 * Tweets to engender sense of accomplishment
 * Ability to share images from phone’s gallery
 
-### Mentors
+### Android Mentors
 * Nicki Hutchen
-* Android: [Chiu-ki Chan](https://twitter.com/chiuki), [Neeraj Rao](https://www.linkedin.com/in/neeraj2608)
-* iOS: TBA
+* [Chiu-ki Chan](https://twitter.com/chiuki)
+* [Neeraj Rao](https://www.linkedin.com/in/neeraj2608)
 
 ### Android Development Environment
 
@@ -30,6 +30,10 @@ Additional Android features for this project are:
 
 ## iOS development
 * Implement iOS version of already existing Android app
+
+### iOS Mentors
+* Nicki Hutchen
+* TBA
 
 ### iOS Development Environment
 * Language: XCode

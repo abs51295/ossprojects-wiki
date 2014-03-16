@@ -1,8 +1,10 @@
 # RealTrack iOS Version
 
-RealTrack is an Android smartphone application designed to facilitate day-to-day data collection by Peace Corps Volunteers in the field. The prototype was developed from RHOK (Random Hack of Kindness) and prototype is now on Google Play. Initial work by [Neeraj Rao](https://github.com/neeraj2608/realtrack). 
+RealTrack is an Android smartphone application designed to facilitate day-to-day data collection by Peace Corps Volunteers in the field. The prototype was developed from RHOK (Random Hack of Kindness) and prototype is now on Google Play. 
 
 We are in the process of getting user feedback on the app and plan on making incremental adjustments as we move forward. We will use the Android version to define the requirements of the iOS version and start the iOS development.
+
+Initial work by [Neeraj Rao](https://github.com/neeraj2608/realtrack). 
 
 **Here are some of the proposed features (Android & iOS):**
 * Streamlined interface

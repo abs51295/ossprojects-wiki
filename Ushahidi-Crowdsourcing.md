@@ -3,14 +3,17 @@ Initial projects were for a customization of the [Ushahidi Platform](http://usha
 [Background Information and Initial Code](https://github.com/PeaceCorps/PCAZ)
 
 **Enhancements**
+Read more detailed information about each enhancement on [PCAZ](https://github.com/PeaceCorps/PCAZ/issues) GitHub page.
 
-1. Constrain the zoom level on the map 
+1. Constrain the zoom level on the map (Issue#12)
 
-2. Adjust Search Function 
+2. Adjust Search Function (Issue#5)
 
-3. Add FAQ page 
+3. Add FAQ page (Issued#6)
 
-4. Adjust report selection menu
+4. Adjust report selection menu (Issued#9)
+
+_Note: If time permits, additional issues/enhancements will be assigned._
 
 **Future Enhancements**
 

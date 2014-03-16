@@ -1,5 +1,9 @@
 Systers GNU Mailman is our flaship open source project.  Systers emailing list uses GNU Mailman software for our email software. Systers has a customized version of GNU Mailman. 
 
+
+## Migration
+Systers will be upgrading to the latest version of GNU mailman later this year and Systers customized features will be added to the baseline code. This involves analysis of GNU Mailman architecture and code.
+
 **Things to note:**
 
 1. You can read [past Systers GSoC projects](http://systers.org/systers-dev/doku.php/start).
@@ -10,22 +14,18 @@ Systers GNU Mailman is our flaship open source project.  Systers emailing list u
 
 **Please note:** All code for this project will be stored in Launchpad as it is main version control software for GNU Mailman.
 
-
-
-Systers will be upgrading to the latest version of GNU mailman and must add Systers code to the baseline code. This allows more analysis of GNU Mailman architecture and code.
-
+### Project Assignment
 1. Port Systers GSoC (2012-2013) features to Mailman 3.0 
-2. Setup Automated Testing for upgrade (Selenium Framework)
+2. Setup Automated Testing for upgrade (Selenium Framework) (_Work with Automation Testing team_)
 
-**Development Environment:**
+
+## Development Environment
 * Language: Python
 * Framework: GNU Mailman
 * Difficulty: Intermediate to Advance
 
-**Mentors**
-
-[Sneha Priscilla](http://systers.org/systers-dev/doku.php/sneha_priscilla:about_me)
-
-[Stephen Turnbull](http://turnbull.sk.tsukuba.ac.jp/)
+## Mentors
+* [Sneha Priscilla](http://systers.org/systers-dev/doku.php/sneha_priscilla:about_me)
+* [Stephen Turnbull](http://turnbull.sk.tsukuba.ac.jp/)
 
 

@@ -2,7 +2,7 @@ Initial projects were for a customization of the [Ushahidi Platform](http://usha
 
 [Background Information and Initial Code](https://github.com/PeaceCorps/PCAZ)
 
-**Enhancements**
+## Enhancements
 Read more detailed information about each enhancement on [PCAZ](https://github.com/PeaceCorps/PCAZ/issues) GitHub page.
 
 1. Constrain the zoom level on the map (Issue#12)
@@ -15,7 +15,7 @@ Read more detailed information about each enhancement on [PCAZ](https://github.c
 
 _Note: If time permits, additional issues/enhancements will be assigned._
 
-**Future Enhancements**
+## Future Enhancements
 
 1. Login (organization level)
 
@@ -23,17 +23,15 @@ _Note: If time permits, additional issues/enhancements will be assigned._
 
 3. Integrate current code into more organization level
 
-**Development Environment:**
+## Development Environment
 * Language: Php, Python, or Ruby
 * Framework: Kohana PhP
 * Difficulty: Novice to Intermediate
 * Potential Mentors: TBA
 
-**Mentors**
-
+## Mentors
 [Rose Robinson](http://about.me/rosariorobinson) ([Anita Borg Institute](http://anitaborg.org/))
 
 [Ushahidi Mentors](http://www.ushahidi.com/about-us/team) 
-
 * Angela Odour
 * Rob Baker

@@ -4,6 +4,8 @@ This year, we want to expand this testing automation for all of the projects. St
 
 You can read last year's student's work about [Testing Automation](http://systers.org/systers-dev/doku.php/olga_maciaszek-sharma:gsoc2013).
 
+This year, Java may be the language of choice and it depends on which projects will be tested with the automation testing. We have various web projects (VMS, Portal, Systers Mailman) that may be used for testing framework. 
+
 ## Development Environment
 * Language: Java
 * Framework: Selenium (Junit test framework)

@@ -1,4 +1,6 @@
-Systers, along with other sub-groups, have several channels where information is disseminated. A portal for Systers and sub-groups to share information to perspective communities, lists events and by geography. 
+Systers, along with other sub-groups, have several channels where information is disseminated. A portal for Systers and sub-groups to share information to perspective communities, lists events and by geography. Before rebranding and new website, ABI (Anita Borg Institute) had a section/pages for Systers and each subgroup (Latinas, LGBT, Black Women in Computing, TurkishWiC and ArabWiC). This allowed for subgroup members to find information specific to their groups. See screen shots below.
+
+
 
 ## Initial features:
 

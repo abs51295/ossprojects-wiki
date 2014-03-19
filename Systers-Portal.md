@@ -1,6 +1,6 @@
 Systers, along with other sub-groups, have several channels where information is disseminated. A portal for Systers and sub-groups to share information to perspective communities, lists events and by geography. Before rebranding and new website, ABI (Anita Borg Institute) had a section/pages for Systers and each subgroup (Latinas, LGBT, Black Women in Computing, TurkishWiC and ArabWiC). This allowed for subgroup members to find information specific to their groups. See screen shots below.
 
-![Screen Shots of Community pages on old website.](https://drive.google.com/#folders/0B9MzOsFzUZFWakNDVHdRT19nQ0k)
+![Screen shots of community pages on old website](https://drive.google.com/folderview?id=0B9MzOsFzUZFWakNDVHdRT19nQ0k&usp=sharing).
 
 ## Initial features:
 

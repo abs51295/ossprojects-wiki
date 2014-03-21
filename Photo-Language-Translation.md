@@ -34,6 +34,6 @@ Peace Corp needs a web application specifically for all of their volunteer sites
 * [Pamela Vickers](https://twitter.com/pwnela) (Atlanta)
 * [Sylvain Abelard](https://twitter.com/abelar_s) (Paris)
 
-## [Freedom Games Mentors](http://www.freedomgames.org/#!start-up-team/c1cd5) 
+## [Freedom Games](http://www.freedomgames.org/) Mentors
 * [Eve Tulbert](https://www.linkedin.com/pub/eve-tulbert/45/7b4/435) (Chicago)
 * [Ala' Diab](https://www.linkedin.com/pub/ala-diab/1a/8b7/3a4) (Chicago)

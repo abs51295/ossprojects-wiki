@@ -34,10 +34,9 @@ Peace Corp needs a web application specifically for all of their volunteer sites
 * [Pamela Vickers](https://twitter.com/pwnela)
 * [Sylvain Abelard](https://twitter.com/abelar_s)
 
-## Freedom Game Mentors (Australia)
-* Eve Tulburt
-* Ala' Diab
+## [Freedom Games Mentors](http://www.freedomgames.org/#!start-up-team/c1cd5) (Australia)
+* [Eve Tulburt](https://www.linkedin.com/pub/eve-tulbert/45/7b4/435)
+* [Ala' Diab](https://www.linkedin.com/pub/ala-diab/1a/8b7/3a4)
 
-[Freedom Games](http://www.freedomgames.org/#!start-up-team/c1cd5)
 
 _**Note: Joined by linguistic anthropologists from [Freedom Games](http://www.freedomgames.org/) as they are also working on minoritiy language translation with leaders from Aborijinal Australia. TBA soon.**_

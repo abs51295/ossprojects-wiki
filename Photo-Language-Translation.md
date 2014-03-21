@@ -30,9 +30,9 @@ Peace Corp needs a web application specifically for all of their volunteer sites
 * Difficulty: Novice to Intermediate
 
 ## Mentors
-* [Ana Cutillas](https://plus.google.com/+AnaCutillas/posts)
-* [Pamela Vickers](https://twitter.com/pwnela)
-* [Sylvain Abelard](https://twitter.com/abelar_s)
+* [Ana Cutillas](https://plus.google.com/+AnaCutillas/posts)(Madrid)
+* [Pamela Vickers](https://twitter.com/pwnela)(Atlanta)
+* [Sylvain Abelard](https://twitter.com/abelar_s)(Paris)
 
 ## [Freedom Games Mentors](http://www.freedomgames.org/#!start-up-team/c1cd5) (Australia)
 * [Eve Tulburt](https://www.linkedin.com/pub/eve-tulbert/45/7b4/435)

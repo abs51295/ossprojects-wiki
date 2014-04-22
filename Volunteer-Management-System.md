@@ -1,4 +1,4 @@
-Anita Borg Institute along with other nonprofit organizations work with many volunteers. The challenge is to manage volunteers, hours and reporting. The volunteer management system (VMS) is needed to help volunteer managers/coordinators in
+Systers work with many volunteers. The challenge is to manage volunteers, hours and reporting. The volunteer management system (VMS) is needed to help volunteer managers/coordinators in
 
 * Entering volunteer job opportunities including hours, days and special events.
 

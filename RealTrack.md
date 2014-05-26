@@ -19,7 +19,6 @@ Additional Android features for this project are:
 * Language: Java 
 * Framework: Android SDK
 * Difficulty: Novice to Intermediate
-* Potential Mentors: TBA
 
 ## iOS development
 Implement iOS version of already existing Android app
@@ -28,12 +27,9 @@ Implement iOS version of already existing Android app
 * Language: XCode
 * Framework: iOS SDK
 * Difficulty: Novice to Intermediate
-* Potential Mentors: TBA
-
-_Note: For this project, you will be placed under Peace Corps development license for the duration of the project._
 
 ### Mentors
 * [Nicki Hutchen](https://www.linkedin.com/pub/nicki-hutchens/14/96a/361) (Memphis, TN)
 * Android: [Chiu-ki Chan](https://twitter.com/chiuki) (Denver, CO), [Neeraj Rao](https://www.linkedin.com/in/neeraj2608) (Gainsville, FL)
-* iOS: TBA
+* iOS: [Tiffani Bell](https://twitter.com/tiffani) (San Francisco, [Shanu Salunke](https://www.linkedin.com/in/shanusalunke)
 

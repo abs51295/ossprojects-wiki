@@ -18,32 +18,23 @@ There are many volunteers at the Peace Corps and PC works with colleges and univ
 
 ### Initial Features
 
-1. Website for admins to submit messages to disseminate through mobile messages to PCVs in the field. 
+1. Receive PCV messages from HQ (Android and text)
 
-2. Receive PCV messages from HQ (Android and text)
-
-3. User Interface for both website and mobile app
+2. User Interface for mobile app
 
 ### Android Development Environment
 
-* Language: Java 
+* Language: XCode 
 * Framework: Android SDK
 * Difficulty: Novice to Intermediate
-* Potential Mentors: TBA
 
 ### iOS Development Environment
 
 * Language: XCode
 * Framework: iOS SDK
 * Difficulty: Novice to Intermediate
-* Potential Mentors: TBA
-
-### Web Development Environment
-* Language: Python 
-* Framework: Django
-* Difficulty: Novice to Intermediate
 
 ### Mentors
-* [Rose Robinson](http://about.me/rosariorobinson) (Atlanta)
+* [Finda Ogburu](http://ihudiyaogburu.com/) (Washington, D.C.)
 * Android: [Kristin Marsicano](https://twitter.com/kristinmars) (Atlanta), [Chinmayi Sk](http://about.me/chinmayisk) (Bangalore)
 * iOS: [Matt Mathias](http://www.bignerdranch.com/about_us/nerds/matt_mathias) (Atlanta), [Shanu Salunke](https://www.linkedin.com/in/shanusalunke) (Bangalore)

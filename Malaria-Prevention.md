@@ -24,7 +24,7 @@ There are many volunteers at the Peace Corps and PC works with colleges and univ
 
 ### Android Development Environment
 
-* Language: XCode 
+* Language: Java 
 * Framework: Android SDK
 * Difficulty: Novice to Intermediate
 

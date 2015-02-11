@@ -12,16 +12,10 @@ Peace Corps is looking to design a web application that will manage data of the 
 2. User Interface web application
 
 
-### Android Development Environment
+### Development Environment
 
-* Language: Java 
-* Framework: Android SDK
-* Difficulty: Novice to Intermediate
-
-### iOS Development Environment
-
-* Language: XCode
-* Framework: iOS SDK
+* Language: Python
+* Framework: Django
 * Difficulty: Novice to Intermediate
 
 ### Mentors

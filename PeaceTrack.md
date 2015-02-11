@@ -30,6 +30,5 @@ Implement iOS version of already existing Android app
 
 ### Mentors
 * [Nicki Hutchen](https://www.linkedin.com/pub/nicki-hutchens/14/96a/361) (Memphis, TN)
-* Android: [Chiu-ki Chan](https://twitter.com/chiuki) (Denver, CO), [Neeraj Rao](https://www.linkedin.com/in/neeraj2608) (Gainsville, FL)
-* iOS: [Tiffani Bell](https://twitter.com/tiffani) (San Francisco, [Shanu Salunke](https://www.linkedin.com/in/shanusalunke)
+More mentors TBA
 

@@ -30,5 +30,5 @@ Implement iOS version of already existing Android app
 
 ### Mentors
 * [Nicki Hutchen](https://www.linkedin.com/pub/nicki-hutchens/14/96a/361) (Memphis, TN)
-More mentors TBA
+* More mentors TBA
 

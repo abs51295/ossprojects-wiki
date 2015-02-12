@@ -7,9 +7,9 @@ Peace Corps is looking to design a web application that will manage data of the 
 
 ### Initial Features
 
-1. Web application with options for PeaceTrack and Malaria application
+1. User Interface web application
 
-2. User Interface web application
+2. Web application with options for PeaceTrack and Malaria application
 
 
 ### Development Environment
@@ -19,5 +19,5 @@ Peace Corps is looking to design a web application that will manage data of the 
 * Difficulty: Novice to Intermediate
 
 ### Mentors
-* [Rose Robinson](http://ihudiyaogburu.com/) (Atlanta)
+* [Rose Robinson](http://rosariorobinson.com/) (Atlanta)
 * More mentors TBA

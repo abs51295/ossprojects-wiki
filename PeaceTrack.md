@@ -24,7 +24,7 @@ Additional Android features for this project are:
 Implement iOS version of already existing Android app
 
 ### iOS Development Environment
-* Language: XCode
+* Language: Objective-C/XCode, Swift
 * Framework: iOS SDK
 * Difficulty: Novice to Intermediate
 

@@ -9,4 +9,4 @@ Due to the complexity of this project, it would be good if the student was famil
 * Difficulty: Intermediate to Advanced
 
 ## Mentors
-To be determined
+To be announced

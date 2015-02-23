@@ -2,38 +2,50 @@ Systers, along with other sub-groups, have several channels where information is
 
 [Screen shots of community pages on old website](http://systers.org/systers-dev/doku.php/portal).
 
-## Initial features:
+## Important links
+* [Systers Portal website](http://portal.systers.org/)
+* [Systers Portal GitHub repo](https://github.com/systers/portal)
+* [Systers Portal documentation](http://systers-portal.readthedocs.org/en/develop/)
 
-### Login and Admin dashboard by Systers and sub-groups
+## Application advice
+If you want to become a GSoC student, do the following:
+* Read [Systers Portal documentation](http://systers-portal.readthedocs.org/en/develop/)
+* Deploy the project on your local machine
+* Make a contributions to Systers Portal or provide proof that you have enough experience with Python and Django. You can find [easy TODO tasks on our GitHub issues page](https://github.com/systers/portal/issues?q=is%3Aopen+is%3Aissue+label%3A%22easy+TODO%22).
+* Talk to a mentor
+* Apply on the GSoC website. FYI no late submissions will be accepted.
 
-Would like to implement various levels of access, for example
-* Level 5 (Admin all rights)
-* Level 4 (Manage users and content)
-* Level 3 (Manager content)
-* Level 2 (Content contributor)
-* Level 1 (Only view mode and comment)
+## Project ideas
 
+### Port Systers Portal to Python3
 
-### Workspace available for Systers and each sub-group
+Currently we support only Python 2, but all of our packages are Python2-3 compatible. So we would like to be able to run Systers Portal with latest Python3 version (and probably drop Python2).
 
-Workspace includes the ability to:
-* Enter resources (scholarships, grants, interns, workshops, professional development, etc.)
-* Create/Find a local or global meetups (currently using Meetup Everywhere has limitations)
-* See past events
+**Skills needed**: Python, Django, experience with migrating Python2 projects to Python3.
 
-### Create social media template for sharing information
+**Complexity level**: Average
 
-Should be able to share resources, meetups and announcements via social media.
+**Helpful resources**: [Python3 porting](http://python3porting.com/) and [this article](http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/)
 
+### Meetup integration
 
-## Future enhancements:
-Create application for more broader community portal.
+Systers used a platform of Meetup.com called Everywhere, but it was discontinued from last December 2014. It was FREE and it was perfect for Systers, because it created a global Meetup, and members were able to create local Meetups based on the global Meetup and have more control over their particular Meetup. We wanted it to be part of the Portal and not a standalone. More details on this project will be added later.
 
-**Development Environment:**
+**Skills needed**: Python, Django, Meetup API
+
+**Complexity level**: Average to advanced
+
+### Your idea here
+
+If you have an idea of your how to improve Systers Portal, drop up a message to discuss it :)
+
+## Development Environment
 * Language: Python
 * Framework: Django
-* Difficulty: Novice to Intermediate
+* Difficulty: Intermediate to Advanced
 
 ## Mentors
-* [Ana Balica](http://ana-balica.github.io/) (Bali, traveling through Asia)
+* [Ana Balica](http://ana-balica.github.io/) (Moldova)
 * More mentors TBA
+
+**Note: please don't email mentors directly. All personal emails will be ignored. If you want to contact us, visit our IRC or gitter channel and leave us a message there.**

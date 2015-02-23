@@ -12,7 +12,8 @@ If you want to become a GSoC student, do the following:
 * Read [Systers Portal documentation](http://systers-portal.readthedocs.org/en/develop/)
 * Deploy the project on your local machine
 * Make a contributions to Systers Portal or provide proof that you have enough experience with Python and Django. You can find [easy TODO tasks on our GitHub issues page](https://github.com/systers/portal/issues?q=is%3Aopen+is%3Aissue+label%3A%22easy+TODO%22).
-* Talk to a mentor
+* Make a rough timeline and split up the idea into tasks. If possible create a prototype, identify possible issues early.
+* Talk to a mentor.
 * Apply on the GSoC website. FYI no late submissions will be accepted.
 
 ## Project ideas

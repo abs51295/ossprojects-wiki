@@ -18,15 +18,18 @@ If you want to become a GSoC student, do the following:
 
 ## Project ideas
 
-### Port Systers Portal to Python3
+### Systers Portal enhancements
 
-Currently we support only Python 2, but all of our packages are Python2-3 compatible. So we would like to be able to run Systers Portal with latest Python3 version (and probably drop Python2).
+Develop a set of enhancements for Systers Portal:
+* notification system for new join requests
+* member notifications of being accepted or rejected to join a community
+* enhanced management of Community Users (search, sort fields)
+* invite user to a community, confirm/reject an invitation
+* comment section to posts
 
-**Skills needed**: Python, Django, experience with migrating Python2 projects to Python3.
+**Skills needed**: Python, Django, HTML, CSS
 
 **Complexity level**: Average
-
-**Helpful resources**: [Python3 porting](http://python3porting.com/) and [this article](http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/)
 
 ### Meetup integration
 

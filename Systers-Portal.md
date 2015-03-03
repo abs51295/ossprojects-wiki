@@ -44,7 +44,7 @@ Systers used a platform of Meetup.com called Everywhere, but it was discontinued
 
 ### Your idea here
 
-If you have an idea of your how to improve Systers Portal, drop up a message to discuss it :)
+If you have an idea of your how to improve Systers Portal, drop us a message to discuss it :)
 
 ## Development Environment
 * Language: Python

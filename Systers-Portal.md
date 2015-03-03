@@ -28,7 +28,7 @@ Develop a set of enhancements for Systers Portal:
 * invite user to a community, confirm/reject an invitation
 * comment section to posts
 
-**Skills needed**: Python, Django, HTML, CSS, Python 3
+**Skills needed**: Python, Django, HTML, CSS, Python3
 
 **Complexity level**: Average
 

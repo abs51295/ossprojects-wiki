@@ -21,13 +21,14 @@ If you want to become a GSoC student, do the following:
 ### Systers Portal enhancements
 
 Develop a set of enhancements for Systers Portal:
+* port Portal to Python3 (shame on us, it's still Python2)
 * notification system for new join requests
 * member notifications of being accepted or rejected to join a community
 * enhanced management of Community Users (search, sort fields)
 * invite user to a community, confirm/reject an invitation
 * comment section to posts
 
-**Skills needed**: Python, Django, HTML, CSS
+**Skills needed**: Python, Django, HTML, CSS, Python 3
 
 **Complexity level**: Average
 

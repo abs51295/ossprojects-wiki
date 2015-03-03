@@ -32,6 +32,8 @@ Develop a set of enhancements for Systers Portal:
 
 **Complexity level**: Average
 
+**Helpful resources**: [Python3 porting](http://python3porting.com/) and [this article](http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/)
+
 ### Meetup integration
 
 Systers used a platform of Meetup.com called Everywhere, but it was discontinued from last December 2014. It was FREE and it was perfect for Systers, because it created a global Meetup, and members were able to create local Meetups based on the global Meetup and have more control over their particular Meetup. We wanted it to be part of the Portal and not a standalone. More details on this project will be added later.

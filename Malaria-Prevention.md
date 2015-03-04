@@ -22,6 +22,10 @@ There are many volunteers at the Peace Corps and PC works with colleges and univ
 
 2. User Interface for mobile app
 
+### Repo
+[Malaria Android](https://github.com/systers/malaria-app-android)
+
+[Malaria iOS](https://github.com/systers/malaria-app-ios)
 ### Android Development Environment
 
 * Language: Java 

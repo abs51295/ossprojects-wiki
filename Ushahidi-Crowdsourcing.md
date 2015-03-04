@@ -23,6 +23,8 @@ What we need now is to make sure that this tool is user-friendly enough so PCVs 
 ### GitHub
 I've uploaded our requests for modifying Crowdmap to fit our needs onto Peace Corps' GitHub page. The project is called PCAZ, and you can see my requests under the "Issues" tab. 
 
+[Ushahidi Crowdmap](https://github.com/systers/crowdmap)
+
 ### Additional Information
 All in all, PCAZ's Mapping team thinks that Peace Corps Volunteer work can benefit greatly by updating the type of technology we're using to report and share information. The developing world's technology is changing rapidly--all of my students in my village are using smartphones! Therefore, a project like this seems to be coming at the right time. The reality is that we still have to keep in mind the fact that PCVs are working in remote areas, often with unreliable internet connections and limited tech capacity. We recognize the need to modify the projects we roll out to suit the reality of working in remote areas. This is where we need help because we get in over our heads relatively quickly!
 

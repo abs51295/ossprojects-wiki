@@ -6,6 +6,8 @@ We currently built a portal solution for our community as part of GSoC 2014. We'
 ## Skill Level
 The portal has some complexity architecture, so we'd like for students who want to participate in this project to be familiar with Python, and SQL.
 
+## Repo
+This will be a large integrated feature of Portal so will work from Portal repo. New enhancement definition coming soon...
 
 **Development Environment:**
 * Language: Python

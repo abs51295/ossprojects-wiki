@@ -9,6 +9,8 @@ The proposed project is to identify homes where there are potential need of deaf
 ## Proposed Solution
 The proposed solution will be similar to our Ushahidi project. PCV onsite will gather data via GPS device or laptop, record information on each location where it is determine there is a deaf occupant, and display information collecting on a web page and all the data uploads and content added is part of a fluid solution.
 
+## Repo
+Coming soon...
 
 ## Development Environment
 * Language: Php, Python, or Ruby

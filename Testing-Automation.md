@@ -6,6 +6,9 @@ You can read last year's student's work about [Testing Automation](http://syster
 
 This year, Java may be the language of choice and it depends on which projects will be tested with the automation testing. We have various web projects (VMS, Portal, Systers Mailman) that may be used for testing framework. 
 
+## Repo
+[Automated Testing](https://github.com/systers/automated-testing)
+
 ## Development Environment
 * Language: Java
 * Framework: Selenium (Junit test framework)

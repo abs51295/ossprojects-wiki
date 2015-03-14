@@ -12,5 +12,4 @@ Review [VMS Requirements document](https://github.com/systers/vms/tree/master/do
 * Difficulty: Intermediate to Advanced
 
 ## Mentors
-* [Ana Balica](http://ana-balica.github.io/) (Moldova)
 * More mentors TBA

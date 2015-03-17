@@ -21,11 +21,11 @@ If you want to become a GSoC student, do the following:
 ### Systers Portal enhancements
 
 Develop a set of enhancements for Systers Portal:
-* notification system for new join requests
+* notification system for new join requests and new comments to posts (and possible other types of notifications in the future)
 * member notifications of being accepted or rejected to join a community
 * enhanced management of Community Users (search, sort fields)
 * invite user to a community, confirm/reject an invitation
-* comment section to posts
+* comment section to posts, approve/reject comments to monitored posts
 
 **Skills needed**: Python3, Django, HTML, CSS
 
@@ -33,7 +33,7 @@ Develop a set of enhancements for Systers Portal:
 
 ### Meetup integration
 
-Systers used a platform of Meetup.com called Everywhere, but it was discontinued from last December 2014. It was FREE and it was perfect for Systers, because it created a global Meetup, and members were able to create local Meetups based on the global Meetup and have more control over their particular Meetup. We wanted it to be part of the Portal and not a standalone. Here is the [requirements document for Meetup integration](https://github.com/systers/portal/blob/develop/docs/requirements/Systers_GSoC15_PortalMeetupProject_Requirements.pdf).
+Systers used a platform of Meetup.com called Everywhere, but it was discontinued from last December 2014. It was FREE and it was perfect for Systers, because it created a global Meetup, and members were able to create local Meetups based on the global Meetup and have more control over their particular Meetup. We wanted it to be part of the Portal and not a standalone. Here is the [requirements document for Meetup integration](https://github.com/systers/portal/blob/develop/docs/requirements/Systers_GSoC15_PortalMeetupProject_Requirements.pdf). Propose a solution. 
 
 **Skills needed**: Python, Django, Meetup API
 

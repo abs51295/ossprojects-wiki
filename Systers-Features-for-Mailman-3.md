@@ -1,6 +1,9 @@
-Systers use a customized version of Mailman 2. One of our main features are the dynamic sublists and we would like to port them to Mailman 3.  
+Systers use a customized version of Mailman 2. We would like to port our features to Mailman 3.  
 
-You can read about dynamic sublist and their implementation in Mailman 2 [here](http://systers.org/systers-dev/doku.php/good_to_know).
+The features that we want to port are: 
+
+- Essay
+- Stats for admins.
 
 Due to the complexity of this project, it would be good if the student was familiar with Python and SQL. Ideally, the student would be also familiar with Mailman or similar, but it is not mandatory. 
 
@@ -9,4 +12,4 @@ Due to the complexity of this project, it would be good if the student was famil
 * Difficulty: Intermediate to Advanced
 
 ## Mentors
-To be announced
+Ana Cutillas

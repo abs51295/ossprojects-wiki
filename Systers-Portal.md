@@ -18,26 +18,15 @@ If you want to become a GSoC student, do the following:
 
 ## Project ideas
 
-### Systers Portal enhancements
+### Systers Portal Meetup app (continuation)
 
-Develop a set of enhancements for Systers Portal:
-* notification system for new join requests and new comments to posts (and possible other types of notifications in the future)
-* member notifications of being accepted or rejected to join a community
-* enhanced management of Community Users (search, sort fields)
-* invite user to a community, confirm/reject an invitation
-* comment section to posts, approve/reject comments to monitored posts
+Systers used a platform of Meetup.com called Everywhere, but it was discontinued from last December 2014. It was FREE and it was perfect for Systers, because it created a global Meetup, and members were able to create local Meetups based on the global Meetup and have more control over their particular Meetup. 
 
-**Skills needed**: Python3, Django, HTML, CSS
+Therefore we have decided to create our own Meetup app within Systers Portal. This project was started last summer during GSoC. We need someone to finish Meetup app. For that you will need to explore what was done, what needs to be done and what will be nice to have. Here is the [requirements document for Meetup integration](https://github.com/systers/portal/blob/develop/docs/requirements/Systers_GSoC15_PortalMeetupProject_Requirements.pdf).
+
+**Skills needed**: Python, Django, HTML, CSS, unittests
 
 **Complexity level**: Average
-
-### Meetup integration
-
-Systers used a platform of Meetup.com called Everywhere, but it was discontinued from last December 2014. It was FREE and it was perfect for Systers, because it created a global Meetup, and members were able to create local Meetups based on the global Meetup and have more control over their particular Meetup. We wanted it to be part of the Portal and not a standalone. Here is the [requirements document for Meetup integration](https://github.com/systers/portal/blob/develop/docs/requirements/Systers_GSoC15_PortalMeetupProject_Requirements.pdf). Propose a solution. 
-
-**Skills needed**: Python, Django, Meetup API
-
-**Complexity level**: Average to advanced
 
 ### Your idea here
 
@@ -50,6 +39,7 @@ If you have an idea of your how to improve Systers Portal, drop us a message to 
 
 ## Mentors
 * [Ana Balica](http://ana-balica.github.io/) (Moldova)
+* [Shwetambara Srivastava](https://github.com/shwetambara) (India)
 * More mentors TBA
 
-**Note: please don't email mentors directly. All personal emails will be ignored. If you want to contact us, visit our IRC or gitter channel and leave us a message there.**
+**Note: please don't email mentors directly. All personal emails will be ignored. If you want to contact us, visit our Slack channel and leave us a message there.**

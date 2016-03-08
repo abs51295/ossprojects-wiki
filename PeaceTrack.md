@@ -1,4 +1,4 @@
-**ATTN: **PeaceTrack will not be on the list of GSoC 2016 Projects.
+**ATTN:** PeaceTrack will not be on the list of GSoC 2016 Projects.
 
 PeaceTrack is an Android smartphone application designed to facilitate day-to-day data collection by Peace Corps Volunteers in the field. The prototype was developed from RHOK (Random Hack of Kindness). 
 

@@ -8,4 +8,4 @@ In order to engage with the community, you can sign up on [Systers Open Source S
 
 **We are only accepting 22-25 proposals.**
 
-There is a lot of interest to work on the Projects. Please remember, even if you are not accepted, anyone can contribute to these projects. They will help many people in need.
+There is a lot of student interest to work on these projects. Please remember, even if you are not accepted as a GSoC student, **anyone** can contribute to these projects. There are many people in need who will be helped with the release of these apps.

@@ -7,3 +7,5 @@ We have been accepted and are participating in Google Summer of Code 2016. You c
 In order to engage with the community, you can sign up on [Systers Open Source Slack](http://systers.io/slack-systers-opensource/) and begin asking questions on how to get involved in GSoC in the #gsoc-questions channel.
 
 **We are only accepting 22-25 proposals.**
+
+There is a lot of interest to work on the Projects. Please remember, even if you are not accepted, anyone can contribute to these projects. They will help many people in need.

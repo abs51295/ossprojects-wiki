@@ -34,7 +34,7 @@ Create a web application that reflects the mobile applications.
 
 ### Your Idea Here
 
-If you have an idea of your how to improve Systers Portal, drop us a message to discuss it :)
+If you have an idea of your how to improve PCSA features, drop us a message to discuss it. :)
 
 ## Mentors
 ### Android

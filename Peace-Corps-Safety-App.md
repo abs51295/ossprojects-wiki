@@ -23,15 +23,26 @@ This project is to support this initiative by creating a mobile app that PCVs ca
 
 ## Project Ideas
 
+### Android
+Update User Interface with the [design requirements] (https://github.com/systers/PCSA-Android/issues/49).
 
+### iOS
+Begin an iOS app for PCSA.
+
+### Web
+Create a web application that reflects the mobile applications.
 
 ### Your Idea Here
 
 If you have an idea of your how to improve Systers Portal, drop us a message to discuss it :)
 
-
 ## Mentors
+### Android
 * [Dinu Kumarasiri] (https://github.com/sandarumk) (Colombo)
 * [Ilo Calistus](https://github.com/calistus) (Nigeria)
+### iOS
+Mentors TBA
+### Web
+Mentors TBA
 
 **Note: please don't email mentors directly. All personal emails will be ignored. If you want to contact us, visit our Slack channel and leave us a message there.**

@@ -34,7 +34,7 @@ Create a web application that reflects the mobile applications.
 
 ### Your Idea Here
 
-If you have an idea of your how to improve PCSA features, drop us a message to discuss it. :)
+If you have an idea of how to improve PCSA features, please discuss with the assigned mentors. You can include them in your proposal as well. 
 
 ## Mentors
 ### Android

@@ -19,6 +19,5 @@ Coming soon...
 
 ## Mentors
 * [Julia Proft](http://systers.org/systers-dev/doku.php/julia_proft)
-* [Jennifer Parak](http://systers.org/systers-dev/doku.php/jennifer_parak)
 * [Rose Robinson](http://about.me/rosariorobinson) ([Anita Borg Institute](http://anitaborg.org/))
 * More mentors TBA

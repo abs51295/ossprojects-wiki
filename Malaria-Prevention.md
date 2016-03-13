@@ -38,5 +38,12 @@ There are many volunteers at the Peace Corps and PC works with colleges and univ
 * Framework: iOS SDK
 * Difficulty: Novice to Intermediate
 
-### Mentors
+## Mentors
+### Android
 * Mentors TBA
+
+### iOS
+* [Bruno] (https://github.com/sandarumk) (Colombo)
+
+### iOS
+* [Khushali]() ()

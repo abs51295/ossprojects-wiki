@@ -39,5 +39,4 @@ There are many volunteers at the Peace Corps and PC works with colleges and univ
 * Difficulty: Novice to Intermediate
 
 ### Mentors
-* [Finda Ogburu](http://ihudiyaogburu.com/) (Washington, D.C.)
-* More mentors TBA
+* Mentors TBA

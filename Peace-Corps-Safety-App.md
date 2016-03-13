@@ -4,23 +4,31 @@ This project is to support this initiative by creating a mobile app that PCVs ca
 
 [Screenshots of PCSA, Android](https://github.com/systers/PCSA-Android/tree/develop/screenshots).
 
-## Important links
-* [PCSA Android GitHub repo](https://github.com/systers/PCSA-Android)
+### Repo
+* [PCSA Android](https://github.com/systers/PCSA-Android)
 
-## Project ideas
+* [PCSA iOS](https://github.com/systers/PCSA-iOS)
 
-### Peace Corps Safety App (Android)
+### Android Development Environment
 
-**Skills needed**: Android
+* Language: Java 
+* Framework: Android SDK
+* Difficulty: Novice to Intermediate
 
-### Your idea here
+### iOS Development Environment
+
+* Language: XCode
+* Framework: iOS SDK
+* Difficulty: Novice to Intermediate
+
+## Project Ideas
+
+
+
+### Your Idea Here
 
 If you have an idea of your how to improve Systers Portal, drop us a message to discuss it :)
 
-## Development Environment
-Download Android Studio and the required SDK tools or get the Eclipse ADT plugin.
-
-Follow the instructions under [Installation] (https://github.com/systers/PCSA-Android/blob/develop/README.md#installation).
 
 ## Mentors
 * [Dinu Kumarasiri] (https://github.com/sandarumk) (Colombo)

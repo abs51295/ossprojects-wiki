@@ -40,10 +40,11 @@ There are many volunteers at the Peace Corps and PC works with colleges and univ
 
 ## Mentors
 ### Android
-* Mentors TBA
+* [Ankita] (https://github.com/ankita-kalra) ()
 
 ### iOS
-* [Bruno] (https://github.com/sandarumk) (Colombo)
+* [Bruno] (https://github.com/bphenriques) (Portugal)
 
 ### HTML
-* [Khushali]() ()
+* [Khushali](https://github.com/khushali9) ()
+* [Ritesh](https://github.com/rg) ()

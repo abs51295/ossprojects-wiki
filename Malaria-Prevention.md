@@ -47,4 +47,4 @@ There are many volunteers at the Peace Corps and PC works with colleges and univ
 
 ### HTML
 * [Khushali](https://github.com/khushali9) ()
-* [Ritesh](https://github.com/rg) ()
+* [Ritesh](https://github.com/Riteshgiri) ()

@@ -24,6 +24,13 @@ Systers used a platform of Meetup.com called Everywhere, but it was discontinued
 
 Therefore we have decided to create our own Meetup app within Systers Portal. This project was started last summer during GSoC. We need someone to finish Meetup app. For that you will need to explore what was done, what needs to be done and what will be nice to have. Here is the [requirements document for Meetup integration](https://github.com/systers/portal/blob/develop/docs/requirements/Systers_GSoC15_PortalMeetupProject_Requirements.pdf).
 
+Remaining features:
+* RSVP functionality - allow Systers Portal users to RSVP for a Meetup
+* Request to create a new Meetup Location
+* List sponsors on Meetup pages
+* Show notifications for various actions to community admins / managers
+* Access permissions implemented for Meetup organizers, Meetup members regarding Meetup Locations and Meetups.
+
 **Skills needed**: Python, Django, HTML, CSS, unittests
 
 **Complexity level**: Average

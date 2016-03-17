@@ -27,7 +27,8 @@ There are many volunteers at the Peace Corps and PC works with colleges and univ
 
 [Malaria iOS](https://github.com/systers/malaria-app-ios)
 
-[New][PC Prep Kit(Malaria Web)](https://github.com/systers/PC-Prep-Kit/issues)
+[New] [PC Prep Kit(Malaria Web)](https://github.com/systers/PC-Prep-Kit/issues)
+
 ### Android Development Environment
 
 * Language: Java 

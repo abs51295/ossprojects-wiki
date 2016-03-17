@@ -20,5 +20,5 @@ Website for admins to submit messages to disseminate through mobile messages to 
 * Difficulty: Novice to Intermediate
 
 ### Mentor
-* [Rose Robinson](http://about.me/rosariorobinson) (Atlanta)
+* [Irish Medina, @nerdylicious on Slack](https://github.com/nerdylicious)
 * More mentors TBA

@@ -9,7 +9,7 @@ This project is to support this initiative by creating a mobile app that PCVs ca
 
 * [PCSA iOS](https://github.com/systers/PCSA-iOS)
 
-* [PCSA Web](https://github.com/systers/PCSA-Web)
+* [PCSA Web](https://github.com/systers/PCSA-web/issues)
 
 ### Android Development Environment
 

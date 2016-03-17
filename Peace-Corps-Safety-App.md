@@ -27,6 +27,7 @@ This project is to support this initiative by creating a mobile app that PCVs ca
 
 ### Android
 Update User Interface with the [design requirements] (https://github.com/systers/PCSA-Android/issues/49).
+General content update according to [this document](https://drive.google.com/open?id=0B8cm8EBZg0GaQy1CUkRUOXhWZUE).
 
 ### iOS
 Begin an iOS app for PCSA.

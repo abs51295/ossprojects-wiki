@@ -42,7 +42,7 @@ If you have an idea of how to improve PCSA features, please discuss with the ass
 ## Mentors
 ### Android
 * [Dinu Kumarasiri, @sandarumk on Slack] (https://github.com/sandarumk) (Colombo)
-* [Ilo Calistus, icalistus](https://github.com/calistus) (Nigeria)
+* [Ilo Calistus, @icalistus on Slack](https://github.com/calistus) (Nigeria)
 
 ### iOS
 Mentors TBA

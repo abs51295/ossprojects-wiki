@@ -51,3 +51,6 @@ If you have an idea of your how to improve VMS, drop us a message to discuss it 
 * [Carol Willing](https://github.com/willingc)
 * Midori Kocak
 * Anagha Todalbagi
+
+
+**Note: please don't email mentors directly. All personal emails will be ignored. If you want to contact us, visit our Slack channel and leave us a message there.**

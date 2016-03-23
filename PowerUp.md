@@ -5,12 +5,24 @@ Preadolescent girls need better options for reproductive health and self-esteem 
 
 
 ## Repo
-[PowerUp](https://github.com/systers/PowerUp)
+[PowerUp- iOS](https://github.com/systers/PowerUp)
+
+[PowerUp- Android](https://github.com/systers/powerup-android)
 
 
 ## Development Environment
-Coming soon...
+### Android Development Environment
+
+* Language: Java 
+* Framework: Android SDK
+* Difficulty: Novice to Intermediate
+
+### iOS Development Environment
+
+* Language: XCode
+* Framework: iOS SDK
+* Difficulty: Novice to Intermediate
 
 
 ## Mentors
-* More mentors TBA
+* [Chhavi P. Gupta @chhavip on slack](https://github.com/chhavip)

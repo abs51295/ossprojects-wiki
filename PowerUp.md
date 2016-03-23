@@ -13,5 +13,4 @@ Coming soon...
 
 
 ## Mentors
-* [Finda Ogburu](http://ihudiyaogburu.com/) (Boston)
 * More mentors TBA

@@ -5,11 +5,11 @@ This project is to support this initiative by creating a mobile app that PCVs ca
 [Screenshots of PCSA, Android](https://github.com/systers/PCSA-Android/tree/develop/screenshots).
 
 ### Repo
-* [PCSA Android](https://github.com/systers/PCSA-Android)
+* [PCSA Android](https://github.com/systers/FirstAide-Android)
 
-* [PCSA iOS](https://github.com/systers/PCSA-iOS)
+* [PCSA iOS](https://github.com/systers/FirstAide-iOS)
 
-* [PCSA Web](https://github.com/systers/PCSA-web/issues)
+* [PCSA Web](https://github.com/systers/FirstAide-web/issues)
 
 ### Android Development Environment
 

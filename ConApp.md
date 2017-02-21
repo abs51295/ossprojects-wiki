@@ -1,4 +1,4 @@
-
+The purpose of this app is to have a general conference app that anyone can use. We will provide more details by February 24th, 2017. Currently, we would like to help aid conferences such as Tapia and Grace Hopper. Please look at their sites for general information structure.
 
 ### Repo
 * 

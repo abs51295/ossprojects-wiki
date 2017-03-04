@@ -1,4 +1,6 @@
+Hopper App is to help manage the Hoppers (Volunteers) at the Grace Hopper Celaboration. This should be a sister app to Conference app. Meaning, that it will have the same exact design (color palette) as the conference app. 
 
+Some of the app's functions from a Hopper/Volunteer perspective is to change hours with another volunteer and manage an 8 hour schedule. They should be able to click the session, see their responsibilities (handing out materials, directing attendees, etc).
 
 ### Repo
 * 

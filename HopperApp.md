@@ -2,6 +2,8 @@ Hopper App is to help manage the Hoppers (Volunteers) at the Grace Hopper Celabo
 
 Some of the app's functions from a Hopper/Volunteer perspective is to change hours with another volunteer and manage an 8 hour schedule. They should be able to click the session, see their responsibilities (handing out materials, directing attendees, etc).
 
+Link for reference: (https://ghc.anitaborg.org/hoppers/)
+
 ### Repo
 * 
 
